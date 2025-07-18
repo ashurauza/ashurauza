@@ -87,12 +87,6 @@
 
 ---
 
-## ✨ Badges
-
-[![Holopin Badges](https://holopin.me/ashurauza)](https://holopin.io/@ashurauza)
-
----
-
 ## 📫 Connect with Me
 
 - **Email:** [ashurauza@gmail.com](mailto:ashurauza@gmail.com)
