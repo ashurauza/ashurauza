@@ -2,8 +2,11 @@
   <img src="https://user-images.githubusercontent.com/94922914/233506434-36031a8f-41f2-4c8d-9252-3624edfb0953.gif" align="center" width="1000" />
 </div>
 
-<h1 align="center">Hi, I'm Ashutosh Kumar!</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Ashutosh Kumar!</h1>
 <h3 align="center">Aspiring Data Scientist & Machine Learning Enthusiast</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=2500&pause=500&color=00C9A7&background=00000000&center=true&vCenter=true&width=500&lines=%3E+Data+Science+%40+IIT+Madras+%7C+CSE(AI+%26+ML)+%40+ABESEC;Innovator+in+Machine+Learning+%26+AI;Full+Stack+Developer+%7C+Model+Deployment;Sustainability+Enthusiast+%7C+Problem+Solver;Hackathon+Winner+%7C+Entrepreneurial+Spirit;Building+Impactful+Solutions+with+Data" />
+</p>
 
 <img align="right" width="280" src="https://github.com/ashurauza.png">
 
