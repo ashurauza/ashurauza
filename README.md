@@ -9,6 +9,7 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ashurauza&label=Profile%20views&color=0e75b6&style=flat" alt="ashurauza" />
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=ashurauza.ashurauza" alt="visitors"/> 
 </p>
 
 ---
